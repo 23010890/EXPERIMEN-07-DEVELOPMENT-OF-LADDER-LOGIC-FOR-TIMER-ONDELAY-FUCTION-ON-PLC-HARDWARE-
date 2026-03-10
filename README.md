@@ -1,3 +1,7 @@
+### NAME : DHARSHINI S
+### REG NO : 212223110010
+### DEPARTMENT : CSE(IOT)
+### DATE : 10-03-2026
 ### EXPERIMENT-07-DEVELOPMENT-OF-LADDER-LOGIC-FOR-TIMER-ONDELAY-FUCTION-ON-PLC-HARDWARE-
 
 ### AIM 
@@ -54,8 +58,20 @@ S.No	Input (X0)	Time Delay (sec)	Output (Y0)
 ###  HARDWARE SETUP 
 
 
+![WhatsApp Image 2026-03-10 at 10 39 35 AM](https://github.com/user-attachments/assets/473f634c-a574-4985-9588-81220194b07c)
+
 
 
 ### LADDER LOGIC
+
+<img width="708" height="231" alt="image" src="https://github.com/user-attachments/assets/8d7a0eb7-2b77-4e14-a380-b4bd55846534" />
+
+<img width="666" height="173" alt="image" src="https://github.com/user-attachments/assets/8d0aad6b-bc79-41d5-b6a4-2ab06d0cabcf" />
+
+#### MONITOR TABLE
+
+<img width="1353" height="181" alt="image" src="https://github.com/user-attachments/assets/6cc665a8-a14d-4a42-90ef-f86adc21dea6" />
+
+
 ### Conclusion:
 The ON-Delay timer function was successfully implemented using Delta SV2 PLC. The output activated after a 0.5-second delay once the input was turned ON.

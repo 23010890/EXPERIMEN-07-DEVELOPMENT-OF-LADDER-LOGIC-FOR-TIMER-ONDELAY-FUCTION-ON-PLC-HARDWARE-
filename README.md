@@ -64,9 +64,10 @@ S.No	Input (X0)	Time Delay (sec)	Output (Y0)
 
 ### LADDER LOGIC
 
-<img width="708" height="231" alt="image" src="https://github.com/user-attachments/assets/8d7a0eb7-2b77-4e14-a380-b4bd55846534" />
+<img width="634" height="186" alt="image" src="https://github.com/user-attachments/assets/5afe19af-04a0-470b-acf0-7c4d5db349b2" />
 
-<img width="666" height="173" alt="image" src="https://github.com/user-attachments/assets/8d0aad6b-bc79-41d5-b6a4-2ab06d0cabcf" />
+<img width="640" height="144" alt="image" src="https://github.com/user-attachments/assets/79b74443-448b-40ba-8734-30e3fb636ddd" />
+
 
 #### MONITOR TABLE
 
